@@ -1,0 +1,1 @@
+the version 9.0.2.4 works only for macOS

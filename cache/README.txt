@@ -1,1 +1,1 @@
-the version 9.0.2.4 works only for macOS
+the version works only for macOs. In order to make it work for Windows too, try a way for capturing screenshots.

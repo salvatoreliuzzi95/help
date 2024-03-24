@@ -9,7 +9,7 @@ There are 12 questions during which it's required to answer within 10 seconds ch
 It makes a screenshot from a mirrored smartphone, converts .png file into .txt file, according to the typology of the question the script searches on internet in different ways providing the estimated right answer.
 The code, fully written in Python, is based on grammar rules, that's why it works only for the italian version of the game.
 
-𝗟𝗶𝘀𝘁 𝗼𝗳 𝗾𝘂𝗲𝘀𝘁 𝘁𝘆𝗽𝗼𝗹𝗼𝗴**ies** 𝘀𝘂𝗽𝗽𝗼𝗿𝘁𝗲𝗱:
+𝗟𝗶𝘀𝘁 𝗼𝗳 𝘀𝘂𝗽𝗽𝗼𝗿𝘁𝗲𝗱 𝗾𝘂𝗲𝘀𝘁 𝘁𝘆𝗽𝗲𝘀:
 - standard and negative questions;
 - questions in which two answers out of three could be right or wrong;
 - historical comparison questions;
